@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/price-tracker/static/css/main.d1c5bfc5.css",
+    "main.js": "/price-tracker/static/js/main.3dd4f047.js",
+    "index.html": "/price-tracker/index.html",
+    "main.d1c5bfc5.css.map": "/price-tracker/static/css/main.d1c5bfc5.css.map",
+    "main.3dd4f047.js.map": "/price-tracker/static/js/main.3dd4f047.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c5bfc5.css",
+    "static/js/main.3dd4f047.js"
+  ]
+}
